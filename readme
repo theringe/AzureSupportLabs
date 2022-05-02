@@ -1,0 +1,13 @@
+Modifying files:
+
+1. package.json / package-lock.json
+Change the name "secpriendp" to what you specified in your Function App
+
+2. track_a/index.js
+Change the name "0502lsecpriendplstoragea" to what you specified in your First Storage Account
+Change the name "0502lsecpriendplbloba" to what you specified in your First Storage Account's Blob
+
+3. track_b/index.js
+Change the name "0502lsecpriendplstorageb" to what you specified in your Second Storage Account
+Change the name "0502lsecpriendplblobb" to what you specified in your Second Storage Account's Blob
+
